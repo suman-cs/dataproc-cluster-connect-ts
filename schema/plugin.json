@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "dataproc-cluster-connect-ts",
+  "description": "dataproc-cluster-connect-ts settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
